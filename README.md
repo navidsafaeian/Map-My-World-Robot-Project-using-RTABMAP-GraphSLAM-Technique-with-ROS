@@ -1,14 +1,14 @@
-# Map My World Robot (RTAB SLAM Project): 
-## The SLAM project was conducted using GraphSLAM approach (RTAB-Map's ROS package)
+# Map My World Robot Project (Robotic SLAM with RTAB-Map GraphSLAM Technique): 
+## The SLAM project was conducted using RTAB-Map's ROS package with a custom mobile robot in two different Gazebo Environments. 
 
 There are different launch setups for each scene:
 
-[writeup]:writingup-MapMyWorldRobot.jpg
+[writeup]:ReportPaper-MapMyWorldRobot.png
 
 - For the Kitchen dining scene: slam_world.launch & mapping.launch 
 - Fot the My World scene: my_world.launch & mapping_myworld.launch
 - teleop.launch and rviz.launch is in common for both scenes.
 
-To read my RTAB SLAM project in pdf format go to my [full Report](writingup-MapMyWorldRobot.pdf).
+To read my RTAB SLAM project in pdf format go to my [full Report](ReportPaper-MapMyWorldRobot.pdf).
 
 ![writeup]
