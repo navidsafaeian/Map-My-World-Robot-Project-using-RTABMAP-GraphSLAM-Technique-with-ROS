@@ -1,5 +1,5 @@
-# Map My World Robot Project (Robotic SLAM with RTAB-Map GraphSLAM Technique): 
-## The SLAM project was conducted using RTAB-Map's ROS package with a custom mobile robot in two different Gazebo Environments. 
+## Map My World Robot Project (Robotic SLAM with RTAB-Map GraphSLAM Technique): 
+### The SLAM project was conducted using RTAB-Map's ROS package with a custom mobile robot in two different Gazebo Environments. 
 
 There are different launch setups for each scene:
 
