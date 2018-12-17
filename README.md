@@ -9,6 +9,10 @@ There are different launch setups for each scene:
 - Fot the My World scene: my_world.launch & mapping_myworld.launch
 - teleop.launch and rviz.launch is in common for both scenes.
 
+The [github link](https://github.com/introlab/rtabmap_ros) to install rtabmap_ros.
+
 To read my report paper in pdf format go to my [full Report](ReportPaper-MapMyWorldRobot.pdf).
+
+
 
 ![writeup]
